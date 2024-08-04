@@ -1,0 +1,4 @@
+C:\Users\ximea\Ask1\.venv\lib\site-packages\django\utils\autoreload.py TIME: 2024-07-31 16:58:28,401 MSG: autoreload.py:run_with_reloader:668 Watching for file changes with StatReloader
+C:\Users\ximea\Ask1\.venv\lib\site-packages\django\utils\autoreload.py TIME: 2024-07-31 17:30:20,744 MSG: autoreload.py:run_with_reloader:668 Watching for file changes with StatReloader
+C:\Users\ximea\Ask1\.venv\lib\site-packages\django\utils\autoreload.py TIME: 2024-07-31 18:04:04,236 MSG: autoreload.py:run_with_reloader:668 Watching for file changes with StatReloader
+C:\Users\ximea\Ask1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-07-31 18:06:06,559 MSG: log.py:log_response:241 Not Found: /favicon.ico
